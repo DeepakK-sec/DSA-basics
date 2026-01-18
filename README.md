@@ -33,21 +33,23 @@ Phase                  | Topics                                      | Status   
 ## Repository Structure
 
 DSA-Learning/
-├── basics/                 # Complexity, Big-O cheat sheet, math helpers
-├── arrays-strings/
-├── hashing/
-├── linked-list/            # (coming)
-├── stack/
-├── queue/
-├── trees/
-├── graphs/
-├── sorting/
-├── searching/
-├── dp/
-├── patterns/
-├── resources/              # Links, cheat sheets, good videos/articles
-├── templates/              # Reusable snippets (binary search, DFS, etc.)
-└── README.md
+├─ basics/
+├─ arrays-strings/
+├─ hashing/
+├─ linked-list/          # (coming)
+├─ stack/
+├─ queue/
+├─ trees/
+├─ graphs/
+├─ sorting/
+├─ searching/
+├─ dp/
+├─ patterns/
+├─ resources/
+├─ templates/
+└─ README.md
+
+
 
 Each topic folder usually contains:
 
